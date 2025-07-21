@@ -1,0 +1,29 @@
+Project Name: CRUD Application for Maintenance
+Technologies Used: React, JavaScript, HTML, CSS, Firebase, Netlify
+About the Project:
+Built a web-based CRUD application to manage student data with a dynamic and responsive user interface. Integrated Firebase to handle data storage and 
+real-time updates for seamless user experience. Deployed the app on Netlify for easy access and hosting.
+Link: https://studentmgmtapp.netlify.app/
+
+Project Name: TheRoad: Dynamic Travel Planning Platform
+Technologies Used: HTML5, CSS3, JavaScript
+About the Project:
+Developed a responsive travel planning website that helps users organize trips by selecting destinations, creating detailed itineraries, and 
+managing budgets. Designed with smooth and interactive front-end features for an engaging user experience.
+Link: https://github.com/sibashreeta/TheRoad
+
+Project Name: PacketDetector: Static Malware Detection Tool for PE Files
+Technologies Used: Python, Tkinter, Shannon Entropy, File I/O
+About the Project:
+Designed and implemented a tool to analyze PE files for malware by using Shannon entropy to detect packed or obfuscated sections. Capable of
+processing large files up to 500 MB by segmenting and analyzing entropy. Features a user-friendly GUI built with Tkinter for easy file browsing and analysis.
+Link: https://github.com/sibashreeta/PacketDetector
+
+Research Work: Analyzing the Network Traffic in the Snowflake Bridge of TOR
+Technologies Used: Wireshark, Network Traffic Analysis, WebRTC, Protocol Analysis
+About the Research:
+Conducted an in-depth analysis of the Tor Bridge Snowflake’s network traffic to investigate its obfuscation techniques for bypassing 
+censorship. Compared Snowflake traffic patterns with Firefox web browsing and Zoom web meetings using Wireshark. Identified key similarities between 
+Snowflake’s obfuscated traffic and WebRTC-based video conferencing, enhancing understanding of its anonymity features. Distinguished Snowflake traffic 
+from standard web browsing and native video conferencing by analyzing protocol sequences.
+Link: https://ieeexplore.ieee.org/document/10885604
